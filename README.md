@@ -1,2 +1,2 @@
 # alphatec
-Primeiro projeto realizado om HTML e CSS. 
+Primeiro projeto realizado com HTML e CSS. 
